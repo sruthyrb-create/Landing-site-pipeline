@@ -1,0 +1,5 @@
+path: /tmp/work/landing_site_pipeline/yolo_stretch/dataset
+train: images/train
+val: images/val
+names:
+  0: crater

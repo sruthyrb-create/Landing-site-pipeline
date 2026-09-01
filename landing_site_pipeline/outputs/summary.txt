@@ -1,0 +1,15 @@
+Landing-Site Suitability Pipeline -- Summary
+==================================================
+
+Region A: Tycho (real DEM + real catalog)
+  Detections: 108
+  Catalog craters (>=20km) in window: 20
+  Matched (recall): 18/20 (90%)
+  Best site: lat=-38.300, lon=-13.192, score=91.2/100
+
+Region B: Malapert Massif (synthetic + real craters)
+  Detections: 15
+  Catalog craters (>=20km) in window: 5
+  Matched (recall): 4/5 (80%)
+  Best site: lat=-84.692, lon=-3.050, score=98.4/100
+

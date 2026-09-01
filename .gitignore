@@ -1,0 +1,7 @@
+landing_site_pipeline/data/Site23_final_adj_5mpp_surf.tif
+landing_site_pipeline/data/LunarLROLrocKaguya_1180mperpix_downsamp.png
+landing_site_pipeline/Landing_Site_Suitability_Report_DRAFT.docx
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
