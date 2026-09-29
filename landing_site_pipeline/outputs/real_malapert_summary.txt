@@ -1,0 +1,8 @@
+Region B: Malapert Massif -- REAL PGDA DEM run
+==================================================
+
+Effective resolution: 24.9 m/pixel (native file is 5 m/pixel; decimated on read to keep the array a manageable size)
+Detections: 3
+Catalog craters (>=20km) in window: 0
+Matched (recall): 0/0 (nan%)
+Best site: lat=-85.962, lon=2.491, score=99.9/100

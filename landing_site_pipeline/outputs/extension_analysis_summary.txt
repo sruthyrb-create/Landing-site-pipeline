@@ -1,0 +1,15 @@
+Extension Analysis -- TOPSIS Comparison + OAT Weight-Sensitivity Summary
+==========================================================================
+
+Region A: Tycho
+  Weighted-sum best site: lat=-38.300, lon=-13.192, score=91.2/100
+  TOPSIS best site:       lat=-38.300, lon=-13.192, score=98.3/100
+  Agreement between methods: 0.0 km apart
+  OAT sensitivity: max best-site shift = 198.0 km, max best-score swing = 13.5 points
+
+Region B: Malapert Massif
+  Weighted-sum best site: lat=-84.692, lon=-3.050, score=98.4/100
+  TOPSIS best site:       lat=-84.692, lon=-3.050, score=99.6/100
+  Agreement between methods: 0.0 km apart
+  OAT sensitivity: max best-site shift = 71.2 km, max best-score swing = 3.3 points
+

@@ -1,0 +1,7 @@
+Region B: Malapert Massif -- REAL PGDA DEM -- Extension Analysis
+==================================================================
+
+Weighted-sum best site: lat=-85.962, lon=2.491, score=99.9/100
+TOPSIS best site:       lat=-85.962, lon=2.491, score=100.0/100
+Agreement between methods: 0.0 km apart
+OAT sensitivity: max best-site shift = 17.6 km, max best-score swing = 0.2 points
